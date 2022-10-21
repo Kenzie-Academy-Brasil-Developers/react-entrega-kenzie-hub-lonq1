@@ -41,7 +41,7 @@ export const MainLogin = styled.main`
         }
 
         @media (min-width: 1080px) {
-            font-size: 16px;
+            font-size: 16.5px;
         }
     }
 
